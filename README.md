@@ -9,3 +9,5 @@ Cerveja - 1200ml por Pessoa + 6 horas - 2000ml
 Refrigerante / água - 1000ml por pessoa + 6 horas 1500ml
 
 Crianças valem POR 0,5.
+
+https://caio-vieira.github.io/Churrascometro/
